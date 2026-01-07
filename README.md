@@ -31,7 +31,7 @@ Esta é uma API em construção, projetada para realizar cálculos avançados de
 
 4. Inicie o servidor:
    ```bash
-   npm start
+   node app.js
    ```
 
 ## Deploy na Vercel
