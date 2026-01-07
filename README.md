@@ -13,7 +13,7 @@ Esta é uma API em construção, projetada para realizar cálculos avançados de
 1. Clone este repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/GabrielTechd/Vau
    ```
 
 2. Instale as dependências:
